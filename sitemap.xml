@@ -1,5 +1,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://palput.tk/Palput Home.html</loc>
+		<loc>http://palput.tk/index.html</loc>
+	</url>
+	<url>
+		<loc>http://palput.tk/ourpilots.html</loc>
 	</url>
 </urlset>
