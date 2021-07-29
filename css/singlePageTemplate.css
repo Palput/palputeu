@@ -18,6 +18,10 @@ body {
 	
 	
 }
+.video {
+    width: 98%;
+    height: 70rem;
+}
 .hero_header {
     color: #FFFFFF;
     text-align: center;
