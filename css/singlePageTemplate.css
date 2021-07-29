@@ -18,9 +18,18 @@ body {
 	
 	
 }
-.video {
-    width: 98%;
-    height: 70rem;
+.fbimage{
+    width: 10%;
+    height: 10%;
+	
+}
+.YTimage{
+    width: 16%;
+    height: 15%;
+    padding-left: 0px;
+    margin-left: -7%;
+    margin-right: 36px;
+	
 }
 .hero_header {
     color: #FFFFFF;
