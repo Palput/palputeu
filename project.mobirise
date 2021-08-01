@@ -26,8 +26,8 @@
         "isRoundedButtons": false,
         "isGhostButtonBorder": false,
         "underlinedLinks": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": []
     },
@@ -50,9 +50,9 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "sitemapSwitcher": true,
     "siteUrl": "http://palput.ga/",
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": false,
     "google-analytics": "  \ngoogle-site-verification: google2b010b4200df16d2.html",
-    "mbrsiteDomain": "ejuiohz3tm",
+    "mbrsiteDomain": "atjuftja80",
     "cookiesAlert": false,
     "gdpr": false
   },
