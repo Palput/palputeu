@@ -1,14 +1,23 @@
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://palput.ga/index.html</loc>
+		<loc>http://palput.ga/index.html</loc>
 	</url>
 	<url>
-		<loc>https://palput.ga/CAT.html</loc>
+		<loc>http://palput.ga/CAT.html</loc>
 	</url>
 	<url>
-		<loc>https://palput.ga/ourprojects.html</loc>
+		<loc>http://palput.ga/ourprojects.html</loc>
 	</url>
 	<url>
-		<loc>https://palput.ga/ourpilots.html</loc>
+		<loc>http://palput.ga/ourpilots.html</loc>
+	</url>
+	<url>
+		<loc>http://palput.ga/proyectos.html</loc>
+	</url>
+	<url>
+		<loc>http://palput.ga/pilotos.html</loc>
+	</url>
+	<url>
+		<loc>http://palput.ga/inicio.html</loc>
 	</url>
 </urlset>
